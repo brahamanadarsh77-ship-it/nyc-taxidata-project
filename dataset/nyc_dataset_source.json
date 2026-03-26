@@ -1,0 +1,22 @@
+{
+	"name": "nyc_dataset_source",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "nyc_web",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "brahamanadarsh77-ship-it/nyc-taxidata-project/refs/heads/main/taxi_zone_lookup.csv"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
