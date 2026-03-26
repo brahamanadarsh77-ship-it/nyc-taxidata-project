@@ -8,11 +8,11 @@
 		"DataLakeStorage_accountKey": {
 			"value": ""
 		},
-		"nyc_web_properties_typeProperties_url": {
-			"value": "https://github.com/brahamanadarsh77-ship-it"
-		},
 		"DataLakeStorage_properties_typeProperties_url": {
 			"value": "https://nyctaxistorageadarsh.dfs.core.windows.net/"
+		},
+		"nyc_web_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
 		},
 		"containerUri": {
 			"value": ""
