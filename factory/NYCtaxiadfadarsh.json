@@ -1,0 +1,9 @@
+{
+	"name": "NYCtaxiadfadarsh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "346b16b6-018a-47b0-88a5-08229a294b7a",
+		"tenantId": "7a0d33ee-43e9-4d9b-82c7-68e74f439418"
+	}
+}
