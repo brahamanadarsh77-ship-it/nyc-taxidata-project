@@ -70,6 +70,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
+						"fileName": "network_edges02.csv",
 						"folderPath": "uber_data_2023",
 						"fileSystem": "bronze"
 					},
@@ -98,7 +99,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "HttpServerLocation",
-						"relativeUrl": "brahamanadarsh77-ship-it/nyc-taxidata-project/refs/heads/main/taxi_zone_lookup.csv"
+						"relativeUrl": "brahamanadarsh77-ship-it/nyc-taxidata-project/refs/heads/main/network_edges02.csv"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
